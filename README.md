@@ -12,6 +12,8 @@ node callbacks
 o	Fed the solver with good quality initial solutions as warm-start to speed-up the search process
 o	Result - Reduced the formulation size & search space effectively that it outperforms the standard formulation
 
+Tools used:
+Python & Gurobi
 
 Future work:
 To try various other faster lower bound approaches like Lagrangian relaxation and faster upper bounds using metaheuristics to accelerate the tree search.
